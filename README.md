@@ -71,3 +71,15 @@ This script simulates real-world IT support tasks and helps in identifying perfo
 - IT troubleshooting  
 - Performance monitoring  
 - Network checking
+
+
+## 📁 Projects in this Repository
+
+### 1. Safe IT Support Script
+- Basic user creation and system checks
+
+### 2. Network Diagnostics Script
+- Checks internet, DNS, and network status
+
+### 3. Advanced Troubleshooting Script
+- System health check (CPU, memory, disk, processes)
