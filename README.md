@@ -30,3 +30,44 @@ It should be run in a safe environment (not on production systems).
 
 ## 👨‍💻 Author
 Oluwatomiwa Olaitan
+
+
+
+
+## 🧰 Advanced Troubleshooting Script
+
+This script is designed to help diagnose common system issues by checking:
+
+- System information
+- CPU and memory usage
+- Disk space
+- Network connectivity
+- Running processes
+- Active services
+
+### 🚀 Purpose
+
+This script simulates real-world IT support tasks and helps in identifying performance, network, and system issues on a Windows machine.
+
+### 🛠️ How to Run
+
+1. Open PowerShell as Administrator  
+2. Run the script:.\advanced-troubleshooting.ps1
+
+3. ### 📌 What It Helps With
+
+- Slow or freezing computer
+- Internet/network issues
+- Low disk space
+- High CPU usage
+- Service-related problems
+
+---
+
+## 👨‍💻 Skills Demonstrated
+
+- PowerShell scripting  
+- System diagnostics  
+- IT troubleshooting  
+- Performance monitoring  
+- Network checking
