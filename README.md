@@ -4,37 +4,37 @@ Basic IT support Automation Using  Powershell
 
 This repository contains a simple PowerShell script created for IT support practice and learning.
 
-## 📌 Purpose
+##  Purpose
 This script demonstrates basic IT support tasks such as:
 - Creating a local user
 - Checking system information
 - Viewing network configuration
 
-## ⚠️ Important Note
+##  Important Note
 This script is for *practice purposes only* and uses test data.  
 It should be run in a safe environment (not on production systems).
 
-## 📜 Script Overview
+##  Script Overview
 
 - Creates a test local user (testuser)
 - Adds the user to the local "Users" group
 - Displays system information
 - Shows network configuration
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open *PowerShell as Administrator*
 2. Run the script:safe-it-script.ps1
-   ## 🛠️ Technologies Used
+   ##  Technologies Used
 - PowerShell
 
-## 👨‍💻 Author
+##  Author
 Oluwatomiwa Olaitan
 
 
 
 
-## 🧰 Advanced Troubleshooting Script
+##  Advanced Troubleshooting Script
 
 This script is designed to help diagnose common system issues by checking:
 
@@ -45,16 +45,16 @@ This script is designed to help diagnose common system issues by checking:
 - Running processes
 - Active services
 
-### 🚀 Purpose
+###  Purpose
 
 This script simulates real-world IT support tasks and helps in identifying performance, network, and system issues on a Windows machine.
 
-### 🛠️ How to Run
+###  How to Run
 
 1. Open PowerShell as Administrator  
 2. Run the script:.\advanced-troubleshooting.ps1
 
-3. ### 📌 What It Helps With
+3. ###  What It Helps With
 
 - Slow or freezing computer
 - Internet/network issues
@@ -64,7 +64,7 @@ This script simulates real-world IT support tasks and helps in identifying perfo
 
 ---
 
-## 👨‍💻 Skills Demonstrated
+##  Skills Demonstrated
 
 - PowerShell scripting  
 - System diagnostics  
@@ -73,7 +73,7 @@ This script simulates real-world IT support tasks and helps in identifying perfo
 - Network checking
 
 
-## 📁 Projects in this Repository
+##  Projects in this Repository
 
 ### 1. Safe IT Support Script
 - Basic user creation and system checks
